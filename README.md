@@ -9,3 +9,5 @@ The app has three pages of content:
 - Meme Editor View: Enables a user to add text to an image and share it. 
 - Sent Memes View: Enables a user to browse sent memes in a table or a grid.
 - Meme Detail View: Displays an image of a sent meme
+
+Udacity iOS Developer Nanodegree Project Application
